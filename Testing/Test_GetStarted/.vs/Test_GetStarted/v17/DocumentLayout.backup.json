@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5786C5B7-E07A-4A4B-87F0-B1C3A2532574}|MSTest\\MSTest.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\testing\\test_getstarted\\mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5786C5B7-E07A-4A4B-87F0-B1C3A2532574}|MSTest\\MSTest.csproj|solutionrelative:mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418903F6-A6A3-4B7A-AA6D-DF7BC4B33A7B}|Test_GetStarted\\Test_GetStarted.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\testing\\test_getstarted\\test_getstarted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418903F6-A6A3-4B7A-AA6D-DF7BC4B33A7B}|Test_GetStarted\\Test_GetStarted.csproj|solutionrelative:test_getstarted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5786C5B7-E07A-4A4B-87F0-B1C3A2532574}|MSTest\\MSTest.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\testing\\test_getstarted\\mstest\\mstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5786C5B7-E07A-4A4B-87F0-B1C3A2532574}|MSTest\\MSTest.csproj|solutionrelative:mstest\\mstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTest",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\MSTest\\MSTest.csproj",
+              "RelativeDocumentMoniker": "MSTest\\MSTest.csproj",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\MSTest\\MSTest.csproj",
+              "RelativeToolTip": "MSTest\\MSTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T16:49:03.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\MSTest\\Test1.cs",
+              "RelativeDocumentMoniker": "MSTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\MSTest\\Test1.cs",
+              "RelativeToolTip": "MSTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:47:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\Test_GetStarted\\Program.cs",
+              "RelativeDocumentMoniker": "Test_GetStarted\\Program.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\Testing\\Test_GetStarted\\Test_GetStarted\\Program.cs",
+              "RelativeToolTip": "Test_GetStarted\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:09:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

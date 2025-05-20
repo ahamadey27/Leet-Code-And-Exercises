@@ -1,0 +1,15 @@
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\bin\Debug\net9.0\Test_GetStarted.exe
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\bin\Debug\net9.0\Test_GetStarted.deps.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\bin\Debug\net9.0\Test_GetStarted.runtimeconfig.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\bin\Debug\net9.0\Test_GetStarted.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\bin\Debug\net9.0\Test_GetStarted.pdb
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.AssemblyInfoInputs.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.AssemblyInfo.cs
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.sourcelink.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\refint\Test_GetStarted.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.pdb
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\Test_GetStarted.genruntimeconfig.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\Testing\Test_GetStarted\Test_GetStarted\obj\Debug\net9.0\ref\Test_GetStarted.dll
