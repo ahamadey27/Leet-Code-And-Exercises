@@ -24,7 +24,7 @@ namespace W3ResourceBasic.Exercises
         {
             // Using the ternary operator to rearrange characters based on the length of the string
             return ustr.Length > 1
-                ? ustr.Substring(ustr.Length - 1) + ustr.Substring(1, ustr.Length) + ustr.Substring(0, 1)
+                ? ustr.Substring(ustr.Length - 1) + ustr.Substring(1, ustr.Length - 2) + ustr.Substring(0, 1)
                 : ustr; //returns input character for single-character string 
         }
     }

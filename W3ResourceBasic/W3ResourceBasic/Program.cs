@@ -11,5 +11,6 @@ switch (choice)
     case "5": Exercise05.Run(); break;
     case "6": Exercise06.Run(); break;
     case "7": Exercise07.Run(); break;
+    case "8": Exercise08.Run(); break;
     default: Console.WriteLine("Unknown"); break;
 }

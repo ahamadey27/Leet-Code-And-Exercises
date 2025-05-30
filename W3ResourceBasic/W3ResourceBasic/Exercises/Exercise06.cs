@@ -11,7 +11,7 @@ namespace W3ResourceBasic.Exercises
         public static void Run()
         {
             Console.WriteLine("Exercise 06");
-            Console.WriteLine("Create a new string where the first character is added to the forst and back");
+            Console.WriteLine("Create a new string where the first character is added to the front and back");
             string? str;
 
             Console.WriteLine("Input a string");
