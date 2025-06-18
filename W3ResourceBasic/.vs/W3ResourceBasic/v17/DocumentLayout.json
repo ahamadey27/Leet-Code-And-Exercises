@@ -58,11 +58,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -72,7 +96,7 @@
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise11.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise11.cs",
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise11.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T21:48:42.515Z",
               "EditorCaption": ""
@@ -111,8 +135,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:27:35.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:27:35.87Z"
             },
             {
               "$type": "Document",
@@ -124,8 +147,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise10.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T21:25:29.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T21:25:29.324Z"
             },
             {
               "$type": "Document",
@@ -137,8 +159,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise09.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T21:16:54.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T21:16:54.444Z"
             },
             {
               "$type": "Document",
@@ -150,8 +171,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise08.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:34:56.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T22:34:56.171Z"
             },
             {
               "$type": "Document",
@@ -163,8 +183,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise07.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T18:38:08.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T18:38:08.537Z"
             },
             {
               "$type": "Document",
@@ -176,8 +195,7 @@
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise06.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T18:18:05.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T18:18:05.252Z"
             },
             {
               "$type": "Document",
