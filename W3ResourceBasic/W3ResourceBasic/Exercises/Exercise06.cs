@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace W3ResourceBasic.Exercises
 {
+    //Adds the first character of a string to both the front and back.
     public static class Exercise06
     {
         public static void Run()

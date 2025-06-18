@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise10
     {
+        // Computes the sum of the digits of an integer.
         public static void Run()
         {
             Console.WriteLine("Exercise 10");

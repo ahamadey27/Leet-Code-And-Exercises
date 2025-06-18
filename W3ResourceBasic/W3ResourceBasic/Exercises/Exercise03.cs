@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise03
     {
+        //Calculates the average of four numbers entered by the user.
         public static void Run()
         {
             Console.WriteLine("Exercise 3");

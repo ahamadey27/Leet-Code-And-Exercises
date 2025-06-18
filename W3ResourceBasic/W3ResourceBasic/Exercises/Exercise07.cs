@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise07
     {
+        //Checks if one integer is positive and the other is negative.
         public static void Run()
         {
             Console.WriteLine("Exercise 07");

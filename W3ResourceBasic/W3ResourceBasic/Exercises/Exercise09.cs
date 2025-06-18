@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,6 +9,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise09
     {
+        //Prints all odd numbers from 1 to 99.
         public static void Run()
         {
             Console.WriteLine("Exercise 09");

@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise01
     {
+        // Exercise 01: Swaps two numbers entered by the user.
         public static void Run()
         {
             Console.WriteLine("Exercise 01");

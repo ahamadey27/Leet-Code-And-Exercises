@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise04
     {
+        //Converts a Celsius temperature to Kelvin and Fahrenheit.
         public static void Run()
         {
             Console.WriteLine("Exercise 0");

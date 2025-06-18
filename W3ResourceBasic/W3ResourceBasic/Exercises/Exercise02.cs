@@ -8,6 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise02
     {
+        // Exercise 02: Prints the multiplication table for a given number up to 12.
         public static void Run()
         {
             Console.WriteLine("Exercise 02");

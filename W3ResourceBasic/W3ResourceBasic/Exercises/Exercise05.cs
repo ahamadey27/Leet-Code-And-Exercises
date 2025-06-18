@@ -9,6 +9,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise05
     {
+        //Swaps the first and last characters of a string.
         public static void Run()
         {
             Console.WriteLine("Exercise 05");

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace W3ResourceBasic.Exercises
 {
+    //Converts a user-input string to lower case.
     public static class Exercise08
     {
         public static void Run()
