@@ -1,6 +1,6 @@
 ﻿using W3ResourceBasic.Exercises;
 
-Console.Write("Which exercise? ");
+Console.Write("Which exercise? \n");
 var choice = Console.ReadLine();
 switch (choice)
 {

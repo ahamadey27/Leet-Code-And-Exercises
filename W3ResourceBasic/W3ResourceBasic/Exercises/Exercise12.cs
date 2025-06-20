@@ -40,10 +40,8 @@ namespace W3ResourceBasic.Exercises
             for (int i= 0; i < arrayOne.Length; i++)
             {
                 int product = arrayOne[i] * arrayTwo[i];
-                Console.WriteLine($"Element {i} result is {product}");
-                Console.WriteLine($"product sume of element {i} is " + (sum += product));
-
-                
+                Console.WriteLine($"Element {i + 1} result is {product}");
+                Console.WriteLine($"product sume of element {i + 1} is " + (sum += product));
             }
 
 
