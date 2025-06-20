@@ -32,6 +32,12 @@ namespace W3ResourceBasic.Exercises
                 arrayTwo[i] = int.Parse(Console.ReadLine()); // Fix: Convert string input to integer
             }
 
+            //Loop through arrays to multiply multiplication of corresponding elements of both arrays
+            for (int i= 0; i < arrayOne.Length; i++)
+            {
+                Console.WriteLine(arrayOne[i] * arrayTwo[i]);
+            }
+
 
         }
     }

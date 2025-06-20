@@ -15,5 +15,6 @@ switch (choice)
     case "9": Exercise09.Run(); break; // Prints all odd numbers from 1 to 99.
     case "10": Exercise10.Run(); break; // Computes the sum of the digits of an integer.
     case "11": Exercise11.Run(); break; // Reverses the order of words in a sentence.
+    case "12": Exercise12.Run(); break; ////Multiply the corresponding elements of two integer arra
     default: Console.WriteLine("Unknown"); break;
 }
