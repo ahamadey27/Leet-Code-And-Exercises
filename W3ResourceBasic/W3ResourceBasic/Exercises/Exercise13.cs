@@ -28,6 +28,9 @@ namespace W3ResourceBasic.Exercises
                 // If the length is greater than or equal to 4,
                 // concatenate the last 4 characters of the input string four times
 
+                //Substring method here takes the length of entire string and starts the index at the 4th to last positions,
+                //printing the elemennts from the 4th to last through the end
+
                 Console.WriteLine(str.Length < 4 ? str + str + str : str.Substring(str.Length - 4) + str.Substring(str.Length - 4) + str.Substring(str.Length - 4) + str.Substring(str.Length - 4));
 
             }
