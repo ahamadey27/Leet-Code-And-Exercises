@@ -41,8 +41,9 @@ namespace W3ResourceBasic.Exercises
             {
                 int product = arrayOne[i] * arrayTwo[i];
                 Console.WriteLine($"Element {i + 1} result is {product}");
-                Console.WriteLine($"product sume of element {i + 1} is " + (sum += product));
+                sum += product;
             }
+            Console.WriteLine("Sum of all multiplied elements: " + sum);
 
 
         }
