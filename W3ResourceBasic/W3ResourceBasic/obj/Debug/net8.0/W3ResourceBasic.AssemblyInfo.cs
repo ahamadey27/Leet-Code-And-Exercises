@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W3ResourceBasic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc69d6fc9f1d05436bdf8f819e1aaa68ff6743f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c9d0d48ae72bdca77feacd9be0fdfc02c1f2e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("W3ResourceBasic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W3ResourceBasic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
