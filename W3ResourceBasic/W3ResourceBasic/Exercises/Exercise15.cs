@@ -17,15 +17,15 @@ namespace W3ResourceBasic.Exercises
 
             int[] arrayMain = new int[10];
 
-            for (int i = 0;i <= arrayMain.Length; i++)
+            for (int i = 0;i < arrayMain.Length; i++)
             {
-                Console.WriteLine("Enter integer " + i + 1);
+                Console.WriteLine("Enter integer " + (i + 1));
                 arrayMain[i] = int.Parse(Console.ReadLine());
             }
 
             int arraySum = 0;
 
-            for (int j = 0; j <= arrayMain.Length; j++)
+            for (int j = 0; j < arrayMain.Length; j++)
             {
                 arraySum += arrayMain[j];
             }
