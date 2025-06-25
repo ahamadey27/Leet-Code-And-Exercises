@@ -18,5 +18,6 @@ switch (choice)
     case "12": Exercise12.Run(); break; //Multiply the corresponding elements of two integer arra
     case "13": Exercise13.Run(); break; //Create a new string of four copies, taking last four characters from a given string
     case "14": Exercise14.Run(); break; //FizzBuzz!!!
+    case "15": Exercise15.Run(); break; //Method to sum the elements in the array, knowing that some of the elements may be very large integers
     default: Console.WriteLine("Unknown"); break;
 }
