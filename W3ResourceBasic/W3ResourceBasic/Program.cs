@@ -17,5 +17,6 @@ switch (choice)
     case "11": Exercise11.Run(); break; // Reverses the order of words in a sentence.
     case "12": Exercise12.Run(); break; //Multiply the corresponding elements of two integer arra
     case "13": Exercise13.Run(); break; //Create a new string of four copies, taking last four characters from a given string
+    case "14": Exercise14.Run(); break; //FizzBuzz!!!
     default: Console.WriteLine("Unknown"); break;
 }
