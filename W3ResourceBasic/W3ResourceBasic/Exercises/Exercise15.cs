@@ -23,12 +23,14 @@ namespace W3ResourceBasic.Exercises
                 arrayMain[i] = int.Parse(Console.ReadLine());
             }
 
-            int arraySum = 0;
+            int arraySum = arrayMain.Sum();
 
-            for (int j = 0; j < arrayMain.Length; j++)
-            {
-                arraySum += arrayMain[j];
-            }
+            //for (int j = 0; j < arrayMain.Length; j++)
+            //{
+            //    arraySum += arrayMain[j];
+            //}
+
+            Console.WriteLine("Sum of elements in the array is " + arraySum);
 
 
         }
