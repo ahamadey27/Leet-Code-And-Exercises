@@ -13,11 +13,11 @@ namespace W3ResourceBasic.Exercises
             Console.WriteLine("Exercise 16");
             Console.WriteLine("Print a string in reverse");
 
-            Console.Write("Please enter a single string:");
+            Console.Write("Please enter a single string: ");
             string message = Console.ReadLine();
 
-            Console.WriteLine($"{message} is {message.Length} characters long and reversed is: ");
-            for (int i = message.Length - 1; i >= 0; i--)
+            Console.Write($"{message} is {message.Length} characters long and reversed is: ");
+            for (int i = message.Length - 1; i >= 0; i--) //reverses order of length with a -1 to compensate for the 0 index
             {
                 Console.Write(message[i]);
                 

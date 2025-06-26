@@ -20,5 +20,6 @@ switch (choice)
     case "14": Exercise14.Run(); break; //FizzBuzz!!!
     case "15": Exercise15.Run(); break; //Method to sum the elements in the array, knowing that some of the elements may be very large integers
     case "16": Exercise16.Run(); break; //Reverseing a string
+    case "17": Exercise17.Run(); break; //Checks if password verifcation is correct with at least 2 special characters
     default: Console.WriteLine("Unknown"); break;
 }
