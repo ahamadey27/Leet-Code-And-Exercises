@@ -19,5 +19,6 @@ switch (choice)
     case "13": Exercise13.Run(); break; //Create a new string of four copies, taking last four characters from a given string
     case "14": Exercise14.Run(); break; //FizzBuzz!!!
     case "15": Exercise15.Run(); break; //Method to sum the elements in the array, knowing that some of the elements may be very large integers
+    case "16": Exercise16.Run(); break; //Reverseing a string
     default: Console.WriteLine("Unknown"); break;
 }

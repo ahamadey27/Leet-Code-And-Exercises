@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace W3ResourceBasic.Exercises
 {
+    //Given an array of integers, write a method to sum the elements in the array.
     public static class Exercise15
     {
         public static void Run()
         {
             Console.WriteLine("Exercise 15");
-            Console.WriteLine("Given an array of integers, write a method to sum the elements in the array, knowing that some of the elements may be very large integers.");
+            Console.WriteLine("Given an array of integers, write a method to sum the elements in the array.");
 
             Console.WriteLine("Enter 10 integers");
 

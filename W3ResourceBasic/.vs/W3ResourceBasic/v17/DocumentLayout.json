@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise16.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise16.cs",
+              "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise16.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise16.cs",
+              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise16.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:27:13.739Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -62,68 +75,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Test.cs",
-              "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Test.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Test.cs",
-              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:47:26.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Exercise15.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise15.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise15.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise15.cs",
-              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise15.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise15.cs*",
+              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise15.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:35:32.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Exercise14.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise14.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise14.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise14.cs",
-              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise14.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise14.cs*",
+              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise14.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T16:22:24.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Exercise13.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise13.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise13.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise13.cs",
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise13.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T14:08:53.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Program.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Program.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Program.cs",
               "RelativeToolTip": "W3ResourceBasic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T13:47:24.082Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
