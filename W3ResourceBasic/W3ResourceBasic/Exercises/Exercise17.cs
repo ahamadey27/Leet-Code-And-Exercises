@@ -12,28 +12,35 @@ namespace W3ResourceBasic.Exercises
      */
     public static class Exercise17
     {
+        
         public static void Run()
         {
+            string? password;
+            char[] specials = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~".ToCharArray(); // Copies characters to char array
+
             Console.WriteLine("Exercise 17");
             Console.WriteLine("Password Checker");
             Console.Write("Please enter your password and must contain at least 2 special characters and at least 6 characters long: ");
-            string? password = Console.ReadLine(); // Allow null values by using nullable type
 
-            // Define array of special characters
-            char[] specials = "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~".ToCharArray(); // Copies characters to char array
-
-            // Check if password is not null/empty, has at least 2 special characters, and is at least 6 characters long
-            if (!string.IsNullOrEmpty(password) && password.Count(c => specials.Contains(c)) >= 2 && password.Length >= 6)
+            do
             {
-                // If valid, prompt user to retype password for verification
-                Console.Write("Please retype password");
-            }
-            else
-            {
-                // If invalid, show error message
-                Console.WriteLine("Password must contain at least 2 special characters. Please try again");
-            }
+                password = Console.ReadLine();
 
+                //use && to make sure all conditions have to be met
+                bool isValid = !string.IsNullOrEmpty(password) && password.Count(c => specials.Contains(c)) >= 2 && password.Length >= 6;
+
+                if (!isValid)
+                {
+                    Console.WriteLine("Try again: ");
+                }
+                else
+                {
+                    Console.WriteLine("Retype your password :");
+                }
+
+            } while (string.IsNullOrEmpty(password) || password.Count(c => specials.Contains(c)) < 2 ||
+                    password.Length < 6); //Use || so if one condition is not meant then loop continues
+                
             // Read the retyped password from user
             string? passwordVarify = Console.ReadLine();
 
