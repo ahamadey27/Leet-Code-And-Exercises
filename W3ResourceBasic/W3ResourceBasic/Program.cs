@@ -22,5 +22,6 @@ switch (choice)
     case "16": Exercise16.Run(); break; // Reverseing a string
     case "17": Exercise17.Run(); break; // Checks if password verifcation is correct with at least 2 special characters
     case "18": Exercise18.Run(); break; // Given an array of integers, write a method to total the odd numbers.
+    case "19": Exercise19.Run(); break; //Given a string, remove any repeated letters
     default: Console.WriteLine("Unknown"); break;
 }
