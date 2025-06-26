@@ -24,14 +24,14 @@ namespace W3ResourceBasic.Exercises
             }
 
             //HashSet<char> only stores unique values, so it can't hold two of the same characters
-            HashSet<char> doubleLetter = new HashSet<char>();
+            HashSet<char> hashList = new HashSet<char>();
             string? result = "";
 
             //If c is not already in the set, it returns true and adds c to the result string.
             //If c is already in the set, it returns false and does not add c to the result string.
             foreach (char c in userInput)
             {
-                if (doubleLetter.Add(c)) //tries to add character to set
+                if (hashList.Add(c)) //tries to add character to set
                 {
                     result += c;
                 }
