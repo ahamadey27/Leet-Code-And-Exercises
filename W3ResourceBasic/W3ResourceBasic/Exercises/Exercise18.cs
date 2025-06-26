@@ -16,7 +16,7 @@ namespace W3ResourceBasic.Exercises
             int[] numArry = { 34, 46, 35, 7, 35, 2, 64, 84, 57, 76 };
             int sum = 0;
 
-            for (int i = 0; i > numArry.Length; i++)
+            for (int i = 0; i < numArry.Length; i++)
             {
          
                 if (numArry[i] % 2 != 0 )
