@@ -25,5 +25,6 @@ switch (choice)
     case "19": Exercise19.Run(); break; //Given a string, remove any repeated letters
     case "20": Exercise20.Run(); break; //Check Multiple of 3 or 7
     case "21": Exercise21.Run(); break; //Check Numbers Less than 100 & Greater than 200
+    case "22": Exercise22.Run(); break; //Check if an integer is in the range -10 to 10
     default: Console.WriteLine("Unknown"); break;
 }
