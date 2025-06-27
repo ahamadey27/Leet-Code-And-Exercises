@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace W3ResourceBasic.Exercises
 {
+    //Print a string in reverse
     public static class Exercise16
     {
         public static void Run()
