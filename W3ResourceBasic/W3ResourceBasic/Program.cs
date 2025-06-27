@@ -24,5 +24,6 @@ switch (choice)
     case "18": Exercise18.Run(); break; // Given an array of integers, write a method to total the odd numbers.
     case "19": Exercise19.Run(); break; //Given a string, remove any repeated letters
     case "20": Exercise20.Run(); break; //Check Multiple of 3 or 7
+    case "21": Exercise21.Run(); break; //Check Numbers Less than 100 & Greater than 200
     default: Console.WriteLine("Unknown"); break;
 }
