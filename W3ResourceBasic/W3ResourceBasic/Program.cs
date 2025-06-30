@@ -31,5 +31,6 @@ switch (choice)
     case "24": Exercise24.Run(); break; //Check String Starts with 'www'
     case "25": Exercise25.Run(); break; //Every other character in a string
     case "26": Exercise26.Run(); break; //Count a specified number in a given array of integers
+    case "27": Exercise27.Run(); break; //Check if a string is a palindrome
     default: Console.WriteLine("Unknown"); break;
 }
