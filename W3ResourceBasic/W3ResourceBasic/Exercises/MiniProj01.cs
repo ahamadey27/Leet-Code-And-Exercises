@@ -23,27 +23,29 @@ namespace W3ResourceBasic.Exercises
         }
         public static void Run()
         {
-            
-
-            //Inventory Management menu via switch statements 
-            Console.WriteLine("\nWelcome to Cinco's Inventory Manager System.");
-            Console.WriteLine("1. Add Product");
-            Console.WriteLine("2. Restock Inventory");
-            Console.WriteLine("3. Update Inventory");
-            Console.WriteLine("4. View All Products");
-            Console.WriteLine("5. Exit");
-
-            string choice = Console.ReadLine();
-
-            switch (choice)
+            while (true)
             {
-                case "1": AddProduct(); break;
-                case "2": RestockInventory(); break;
-                case "3": UpdateInventory(); break;
-                case "4": UpdateProducts(); break;
-                case "5": return;
-                default: Console.WriteLine("Invalid Choice. Please try again"); break; 
-            }
+                //Inventory Management menu via switch statements 
+                Console.WriteLine("\nWelcome to Cinco's Inventory Manager System.");
+                Console.WriteLine("1. Add Product");
+                Console.WriteLine("2. Restock Inventory");
+                Console.WriteLine("3. Update Inventory");
+                Console.WriteLine("4. View All Products");
+                Console.WriteLine("5. Exit");
+
+                string choice = Console.ReadLine();
+
+                switch (choice)
+                {
+                    case "1": AddProduct(); break;
+                    case "2": RestockInventory(); break;
+                    case "3": UpdateInventory(); break;
+                    case "4": UpdateProducts(); break;
+                    case "5": return;
+                    default: Console.WriteLine("Invalid Choice. Please try again"); break;
+                }
+
+            }          
         }
 
         static void AddProduct()
@@ -61,6 +63,7 @@ namespace W3ResourceBasic.Exercises
 
             inventory.Add(new Product { Name = name, Price = price, Quantity = 0 });
             Console.WriteLine("Product added with quantiy of 0");
+            return;
         }
 
         static void RestockInventory()
