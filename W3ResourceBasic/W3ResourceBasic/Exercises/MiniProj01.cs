@@ -46,6 +46,8 @@ namespace W3ResourceBasic.Exercises
 
         static void AddProduct()
         {
+            Console.WriteLine("Please enter name of new prodcut");
+            string? name = Console.ReadLine();
 
         }
 
