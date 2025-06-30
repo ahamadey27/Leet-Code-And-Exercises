@@ -8,7 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise24
     {
-        //Check String Starts with 'www'
+        //Check String Starts with 'ww'
         public static void Run()
         {
             Console.WriteLine("Exercise 24");

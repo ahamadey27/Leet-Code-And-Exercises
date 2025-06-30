@@ -29,5 +29,6 @@ switch (choice)
     case "23": Exercise23.Run(); break; //Check if "HP" appears at second position in a string and returns the string without "HP"
     case "24": Exercise24.Run(); break; //Check String Starts with 'www'
     case "25": Exercise25.Run(); break; //Every other character in a string
+    case "26": Exercise26.Run(); break; //Count a specified number in a given array of integers
     default: Console.WriteLine("Unknown"); break;
 }

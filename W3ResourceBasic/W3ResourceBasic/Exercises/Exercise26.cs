@@ -14,7 +14,7 @@ namespace W3ResourceBasic.Exercises
             Console.WriteLine("Exercise 26");
             Console.WriteLine("Count a specified number in a given array");
 
-            Console.Write("Input an integer");
+            Console.Write("Input an integer: ");
             int numSearch = Convert.ToInt32(Console.ReadLine());
 
             //Define array of nums that will be used to search for user input
@@ -24,6 +24,7 @@ namespace W3ResourceBasic.Exercises
 
             //For each element n in numArray, checks if n is equal to numSearch 
             //Result is total number of numSearches appears in numArray
+            //.Count expects a predicate (function or lambda)
             Console.Write(numArray.Count(n => n == numSearch));
         }
     }
