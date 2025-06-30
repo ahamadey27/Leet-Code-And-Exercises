@@ -31,7 +31,7 @@ namespace W3ResourceBasic.Exercises
 
                 //Checks if substring of length 2 starting at index 'i' contains "ww"
                 //And if counter is greater than 2
-                if (i + 1 < str.Length && str.Substring(i, 2).Equals("ww") && ctr > 2)
+                if (str.Substring(i, 2).Equals("ww") && ctr > 2)
                     return true;
             }
 
