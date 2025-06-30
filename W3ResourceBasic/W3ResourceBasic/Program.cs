@@ -28,5 +28,6 @@ switch (choice)
     case "22": Exercise22.Run(); break; //Check if an integer is in the range -10 to 10
     case "23": Exercise23.Run(); break; //Check if "HP" appears at second position in a string and returns the string without "HP"
     case "24": Exercise24.Run(); break; //Check String Starts with 'www'
+    case "25": Exercise25.Run(); break; //Every other character in a string
     default: Console.WriteLine("Unknown"); break;
 }
