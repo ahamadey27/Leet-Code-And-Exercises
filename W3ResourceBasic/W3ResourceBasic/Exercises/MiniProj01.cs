@@ -118,7 +118,18 @@ namespace W3ResourceBasic.Exercises
 
         static void UpdateProducts()
         {
-            //
+            //Show list of inventory
+            if (inventory.Count == 0)
+            {
+                Console.WriteLine("There is no inventory");
+                return;
+            }
+
+            Console.WriteLine("\nCurrent Inventory: ");
+            foreach (var product in inventory)
+            {
+                Console.WriteLine($"{product.Name} Price: {product.Price} - Amount in inventory: {product.Quantity}");
+            }
 
         }
     }
