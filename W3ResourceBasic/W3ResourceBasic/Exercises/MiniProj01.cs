@@ -71,15 +71,54 @@ namespace W3ResourceBasic.Exercises
             Console.Write($"Enter quaintity of {name} you'd like to restock");
             int quantity;
 
+            while (!int.TryParse(Console.ReadLine(), out quantity))
+            {
+                Console.WriteLine("Please enter a valid quantity");
+            }
+
+            for (int i = 0; i < 0; i++)
+            {
+                if (inventory[i].Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    inventory[i].Quantity += quantity;
+                    Console.WriteLine($"{quantity} units added to {name}");
+                    return;
+                }
+            }
+
+            Console.WriteLine("Product not found");
         }
 
         static void UpdateInventory()
         {
+            // Allows user to set a new quantity for a specific product
+            Console.Write("Enter product name to update: ");
+            string name = Console.ReadLine();
 
+            for (int i = 0; i < inventory.Count; i++)
+            {
+                if (!inventory[i].Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    Console.WriteLine($"Current quantity is {inventory[i].Quantity}");
+                    Console.Write("Enter new quantity: ");
+                }
+
+                int newQuantity;
+                while (!int.TryParse(Console.ReadLine(), out newQuantity))
+                {
+                    Console.WriteLine("Enter a valid integer");
+                }
+
+                inventory[i].Quantity = newQuantity;
+                Console.WriteLine($"Inventory for {name} updated to {newQuantity}");
+                return;
+
+            }
         }
 
         static void UpdateProducts()
         {
+            //
 
         }
     }
