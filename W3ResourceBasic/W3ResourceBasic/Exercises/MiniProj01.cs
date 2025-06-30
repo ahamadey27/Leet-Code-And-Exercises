@@ -13,15 +13,17 @@ namespace W3ResourceBasic.Exercises
     // It uses a Product class and a List<Product> to manage data.
     public static class MiniProj01
     {
+
+        static List<Product> inventory = new List<Product>();
         class Product //Initialize properties 
         {
-            public string Name { get; set; }
+            public string? Name { get; set; }
             public decimal Price { get; set; }
             public int Quantity { get; set; }
         }
         public static void Run()
         {
-            List<Product> inventory = new List<Product>();
+            
 
             //Inventory Management menu via switch statements 
             Console.WriteLine("\nWelcome to Cinco's Inventory Manager System.");
@@ -46,13 +48,28 @@ namespace W3ResourceBasic.Exercises
 
         static void AddProduct()
         {
-            Console.WriteLine("Please enter name of new prodcut");
+            Console.Write("Please enter name of new prodcut: ");
             string? name = Console.ReadLine();
 
+            Console.Write("Please enter prive in 00.00 decimnal format");
+            decimal price;
+
+            while (!decimal.TryParse(Console.ReadLine(), out price))
+            {
+                Console.WriteLine("Enter a valid decimal");
+            }
+
+            inventory.Add(new Product { Name = name, Price = price, Quantity = 0 });
+            Console.WriteLine("Product added with quantiy of 0");
         }
 
         static void RestockInventory()
         {
+            Console.Write("Enter a prodcut to restock: ");
+            string name = Console.ReadLine();
+
+            Console.Write($"Enter quaintity of {name} you'd like to restock");
+            int quantity;
 
         }
 
