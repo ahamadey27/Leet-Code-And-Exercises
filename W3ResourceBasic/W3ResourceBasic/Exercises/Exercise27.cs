@@ -14,7 +14,7 @@ namespace W3ResourceBasic.Exercises
             Console.WriteLine("Exercise 27");
             Console.WriteLine("Check a palindrome string");
 
-            Console.Write("Enter a word and see if it's a palindrome");
+            Console.Write("Enter a word and see if it's a palindrome: ");
             string userInput = Console.ReadLine();
 
             char[] charArray = userInput.ToCharArray();
