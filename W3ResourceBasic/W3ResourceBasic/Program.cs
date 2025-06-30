@@ -4,6 +4,7 @@ Console.Write("Which exercise? \n");
 var choice = Console.ReadLine();
 switch (choice)
 {
+    case "mini01:":MiniProj01.Run(); break; //Inventory system
     case "1": Exercise01.Run(); break; // Swaps two numbers entered by the user.
     case "2": Exercise02.Run(); break; // Prints the multiplication table for a given number up to 12.
     case "3": Exercise03.Run(); break; // Calculates the average of four numbers entered by the user.
