@@ -42,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Exercise27.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
-              "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise27.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
-              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise27.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:02:26.731Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -84,6 +71,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise27.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:02:26.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

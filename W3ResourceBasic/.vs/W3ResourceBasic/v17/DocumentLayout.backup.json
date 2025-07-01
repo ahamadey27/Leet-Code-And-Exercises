@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\miniproj01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\miniproj01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\exercise27.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\miniproj01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|solutionrelative:w3resourcebasic\\exercises\\miniproj01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24ADEA32-92A9-49E9-B286-1527E302BE4F}|W3ResourceBasic\\W3ResourceBasic.csproj|c:\\users\\hamad\\documents\\github\\leet-code-and-exercises\\w3resourcebasic\\w3resourcebasic\\exercises\\exercise26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise27.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "RelativeToolTip": "W3ResourceBasic\\Exercises\\Exercise27.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:02:26.731Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -70,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MiniProj01.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\MiniProj01.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\MiniProj01.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\MiniProj01.cs",
               "RelativeToolTip": "W3ResourceBasic\\Exercises\\MiniProj01.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAywBwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T02:09:46.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Exercise26.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise26.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise26.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Exercise25.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise25.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise25.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Exercise24.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise24.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise24.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Exercise23.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise23.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise23.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Exercise17.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Exercises\\Exercise17.cs",
               "RelativeDocumentMoniker": "W3ResourceBasic\\Exercises\\Exercise17.cs",
@@ -154,7 +171,7 @@
               "RelativeDocumentMoniker": "W3ResourceBasic\\Program.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\Leet-Code-And-Exercises\\W3ResourceBasic\\W3ResourceBasic\\Program.cs",
               "RelativeToolTip": "W3ResourceBasic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T13:47:24.082Z",
               "EditorCaption": ""
