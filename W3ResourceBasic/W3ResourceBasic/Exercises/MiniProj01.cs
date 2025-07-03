@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace W3ResourceBasic.Exercises
+﻿namespace W3ResourceBasic.Exercises
 {
     // Inventory Manager Console App
     // This application allows users to add, restock, update, and view product inventory.
@@ -45,7 +37,7 @@ namespace W3ResourceBasic.Exercises
                     default: Console.WriteLine("Invalid Choice. Please try again"); break;
                 }
 
-            }          
+            }
         }
 
         static void AddProduct()
