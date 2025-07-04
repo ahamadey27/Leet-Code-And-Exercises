@@ -8,7 +8,7 @@ namespace W3ResourceBasic.Exercises
 {
     public static class Exercise30
     {
-        public static bool Run()
+        public static void Run()
         {
             Console.WriteLine("Exercise 30");
             Console.WriteLine("Determine if a Number is a Palindrome");
@@ -17,18 +17,24 @@ namespace W3ResourceBasic.Exercises
 
             string? numStr = Console.ReadLine();
 
-            int len = numStr.Length;
+            string reversedString = "";
 
-            for (int i = 0; i < len / 2; i++)
+            for (int i = numStr.Length - 1; i >= 0; i--)
             {
-                if (numStr[i] != numStr[len - 1 - i])
-                    return false;
+                reversedString += numStr[i];
+
             }
 
-            return true;
+            if (reversedString == numStr)
+            {
+                Console.WriteLine($"{numStr} is a palindrome");
+            }
+            else
+            {
+                Console.WriteLine($"{numStr} is not palindrome");
+
+            }
 
         }
-
-
     }
 }
