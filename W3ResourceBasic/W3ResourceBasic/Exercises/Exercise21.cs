@@ -13,7 +13,7 @@ namespace W3ResourceBasic.Exercises
         {
             Console.WriteLine("Exercise 21");
             Console.WriteLine("Check Numbers Less than 100 & Greater than 200");
-            Console.Write("Enter a number to check if number meets aboce conditions: ");
+            Console.Write("Enter a number to check if number meets above conditions: ");
             int? userInput = Convert.ToInt32(Console.ReadLine());
             
             if (userInput < 100)
