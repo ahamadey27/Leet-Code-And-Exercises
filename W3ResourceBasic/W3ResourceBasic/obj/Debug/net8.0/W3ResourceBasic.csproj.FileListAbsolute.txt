@@ -1,0 +1,15 @@
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\bin\Debug\net8.0\W3ResourceBasic.exe
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\bin\Debug\net8.0\W3ResourceBasic.deps.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\bin\Debug\net8.0\W3ResourceBasic.runtimeconfig.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\bin\Debug\net8.0\W3ResourceBasic.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\bin\Debug\net8.0\W3ResourceBasic.pdb
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.AssemblyInfoInputs.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.AssemblyInfo.cs
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.sourcelink.json
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\refint\W3ResourceBasic.dll
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.pdb
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\W3ResourceBasic.genruntimeconfig.cache
+C:\Users\hamad\Documents\GitHub\Leet-Code-And-Exercises\W3ResourceBasic\W3ResourceBasic\obj\Debug\net8.0\ref\W3ResourceBasic.dll
