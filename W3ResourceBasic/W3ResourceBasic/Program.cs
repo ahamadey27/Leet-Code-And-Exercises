@@ -34,5 +34,6 @@ switch (choice)
     case "27": Exercise27.Run(); break; //Check if a string is a palindrome
     case "28": Exercise28.Run(); break; //Check if a number string is a palindrome
     case "29": Exercise29.Run(); break; //Reverse a String Without Using Built-in Functions
+    case "30": Exercise30.Run(); break; //Check if palindrome without reverse methods
     default: Console.WriteLine("Unknown"); break;
 }
