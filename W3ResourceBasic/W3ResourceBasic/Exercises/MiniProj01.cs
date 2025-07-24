@@ -54,16 +54,16 @@
             }
 
             inventory.Add(new Product { Name = name, Price = price, Quantity = 0 });
-            Console.WriteLine("Product added with quantiy of 0");
+            Console.WriteLine("Product added with quantity of 0");
             return;
         }
 
         static void RestockInventory()
         {
-            Console.Write("Enter a prodcut to restock: ");
+            Console.Write("Enter a product to restock: ");
             string name = Console.ReadLine();
 
-            Console.Write($"Enter quaintity of {name} you'd like to restock");
+            Console.Write($"Enter quantity of {name} you'd like to restock");
             int quantity;
 
             while (!int.TryParse(Console.ReadLine(), out quantity))
@@ -88,7 +88,7 @@
         {
             // Allows user to set a new quantity for a specific product
             Console.Write("Enter product name to update: ");
-            string name = Console.ReadLine();
+            string? name = Console.ReadLine();
 
             for (int i = 0; i < inventory.Count; i++)
             {
